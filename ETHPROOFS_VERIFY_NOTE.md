@@ -191,7 +191,7 @@ From a clean checkout:
 ```bash
 git clone git@github.com:cysic-labs/venus_proof_verify_demo.git
 cd venus_proof_verify_demo
-make install
+make download
 make verify
 ```
 
